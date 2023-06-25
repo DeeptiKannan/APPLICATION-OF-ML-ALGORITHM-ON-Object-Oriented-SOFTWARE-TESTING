@@ -9,8 +9,10 @@ CASE STUDY:
 
 Using Decision Tree
 
-Decision trees are used in software testing for feature extraction, labeling, data collection and preparation, model training, model evaluation, model testing, and result analysis. They provide a transparent and interpretable way to model the decision-making process based on features and labels, helping to identify patterns and make accurate predictions for new test case
+Decision trees are used in software testing for feature extraction, labeling, data collection and preparation, model training, model evaluation, model testing, and result analysis. They provide a transparent and interpretable way to model the decision-making process based on features and labels, helping to identify patterns and make accurate predictions for new test cases.
+
 Finding:
+
 The code demonstrates how object-oriented concepts can be applied to software testing with decision trees, making the testing process more modular, reusable, and maintainable. The code still uses object-oriented concepts, such as encapsulation and abstraction.
 
 Using Bayesian Network
